@@ -38,4 +38,4 @@ If you want to check the list of branches, simply run:
 
 After you're done with commiting locally run this command to push to the repository as a branch:
 
-        $ git push -u origin local-branch
+        $ git push -u origin <name of your local new branch>
