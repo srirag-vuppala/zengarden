@@ -26,16 +26,16 @@ $ git clone "https://github.com/srirag-vuppala/zengarden.git"
 
 Important: Create a separate branch for this task. You will use this branch to turn the task in at the end. Before you commit changes, make sure you create a new branch. Here's the command:
 
-$ git branch "name of your new branch"   *Quotes not required
+        $ git branch "name of your new branch"   *Quotes not required
 
 To move to the new branch, you can run:
 
-$ git checkout "name of your new branch"  *Quotes not required
+        $ git checkout "name of your new branch"  *Quotes not required
 
 If you want to check the list of branches, simply run:
 
-$ git branch
+        $ git branch
 
 After you're done with commiting locally :
 
-$ git push -u origin local-branch
+        $ git push -u origin local-branch
