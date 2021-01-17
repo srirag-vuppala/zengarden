@@ -26,7 +26,7 @@ $ git clone "https://github.com/srirag-vuppala/zengarden.git"
 
 Important: Create a separate branch for this task. You will use this branch to turn the task in at the end. Before you commit changes, make sure you create a new branch. Here's the command:
 
-        $ git branch "name of your new branch"   *Quotes not required *include your name in your branch
+        $ git branch <name of your new branch>   *Quotes not required *include your name in your branch
 
 To move to the new branch, you can run:
 
