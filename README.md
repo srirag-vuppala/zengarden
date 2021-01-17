@@ -3,6 +3,13 @@ CSS ZenGarden activity for CSSG Web Dev team
 
 " CSS allows complete and total control over the style of a hypertext document. The only way this can be illustrated in a way that gets people excited is by demonstrating what it can truly be, once the reins are placed in the hands of those able to create beauty from structure. Designers and coders alike have contributed to the beauty of the web; we can always push it further. " ~ Original ZenGarden 
 
+# How to get started
+Clone the repository locally using the command:
+
+$ git clone "https://github.com/srirag-vuppala/zengarden.git"
+
+To actually test your changes in html or css simply open up the html document in the browser
+
 # Submission 
 
 Important: Create a separate branch for this assignment. You will use this branch to turn the assignment in at the end. Before you commit changes, make sure you create a new branch. Here's the command:
@@ -19,4 +26,4 @@ $ git branch
 
 After you're done with commiting locally :
 
-$ git push
+$ git push -u origin local-branch
