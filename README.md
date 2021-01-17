@@ -14,7 +14,13 @@ $ git clone "https://github.com/srirag-vuppala/zengarden.git"
 
 - To actually test your changes in html or css simply open up the html document in the browser
 
-- 
+- To git add all the files use :
+
+$ git add -A
+
+- To git commit:
+
+$ git commit -m"Your commit message"
 
 # Submission 
 
