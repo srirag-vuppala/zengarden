@@ -16,11 +16,11 @@ $ git clone "https://github.com/srirag-vuppala/zengarden.git"
 
 - To git add all the files use :
 
-$ git add -A
+        $ git add -A
 
 - To git commit:
 
-$ git commit -m"Your commit message"
+        $ git commit -m"Your commit message"
 
 # Submission 
 
