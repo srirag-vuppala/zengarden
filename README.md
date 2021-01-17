@@ -16,3 +16,7 @@ $ git checkout "name of your new branch"  *Quotes not required
 If you want to check the list of branches, simply run:
 
 $ git branch
+
+After you're done with commiting locally :
+
+$ git push
