@@ -8,11 +8,17 @@ Clone the repository locally using the command:
 
 $ git clone "https://github.com/srirag-vuppala/zengarden.git"
 
-To actually test your changes in html or css simply open up the html document in the browser
+# Helpful tips
+
+- I recommend using VScode as your editor for actually working towards the task
+
+- To actually test your changes in html or css simply open up the html document in the browser
+
+- 
 
 # Submission 
 
-Important: Create a separate branch for this assignment. You will use this branch to turn the assignment in at the end. Before you commit changes, make sure you create a new branch. Here's the command:
+Important: Create a separate branch for this task. You will use this branch to turn the task in at the end. Before you commit changes, make sure you create a new branch. Here's the command:
 
 $ git branch "name of your new branch"   *Quotes not required
 
