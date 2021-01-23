@@ -6,7 +6,7 @@ CSS ZenGarden activity for CSSG Web Dev team
 # How to get started
 Clone the repository locally using the command:
 
-$ git clone "https://github.com/srirag-vuppala/zengarden.git"
+        $ git clone "https://github.com/srirag-vuppala/zengarden.git"
 
 # Helpful tips
 
