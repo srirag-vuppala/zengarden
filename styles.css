@@ -1,0 +1,23 @@
+.topnav li {
+  list-style-type: none;
+  float: right;
+  color: rgb(37, 64, 135);
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+#right {
+  padding: 14px 25px;
+}
+
+.other {
+  background-color: rgb(37, 64, 135);
+}
+
+#CS {
+  font-size: 25px;
+  padding-right: 429px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
