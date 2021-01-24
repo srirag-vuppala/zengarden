@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat';
+  display: block;
+  width: 100%;
+}
+
+.navbar {
+  background-color: #ffffff;
+  position: relative;
+  height: 70px;
+  color: #023E8A;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0em 1em;
+  margin: 0;
+  font-weight: bolder;
+  box-shadow: 0px 2px 2px 0px rgba(38,34,34,0.74);
+}
+
+.navbar div {
+  display: flex;
+}
+
+.navbar li {
+  list-style: none;
+  padding: .5em 1em;
+  font-size: 25px;
+}
+
+#CSSG {
+  font-size: 35px;
+}
+
+section {
+  height: 90vh;
+  color: #ffffff;
+  font-weight: 600;
+}
+
+section p {
+  background: #023E8A;
+  margin: 0;
+}
+
+.banner-1 {
+  padding: 3em 0 0 3em;
+  font-size: 50px;
+}
+
+.banner-2 {
+  padding: .1em 0 0 2.1em;
+  font-size: 70px;
+}
+
+.banner-3 {
+  padding: 2em 0 0 5em;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+section img {
+  width: 100%;
+}
+
+.dots-r {
+  width: 317px;
+  display: block;
+  margin-left: auto;
+}
+
+.dots-r img {
+  position: absolute;
+  padding-top: 50px;
+}
